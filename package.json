@@ -7,5 +7,11 @@
     "url": "git+ssh://git@github.com/tarunregmi/auto-scroll.git"
   },
   "author": "Tarun Regmi",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
 }
