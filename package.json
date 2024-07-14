@@ -1,0 +1,11 @@
+{
+  "name": "auto-scroll",
+  "version": "0.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tarunregmi/auto-scroll.git"
+  },
+  "author": "Tarun Regmi",
+  "license": "MIT"
+}
