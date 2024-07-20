@@ -9,7 +9,7 @@
   "author": "Tarun Regmi",
   "license": "MIT",
   "scripts": {
-    "build": "rm -rf dist && tsc"
+    "build": "rm -rf dist && tsc && cp -r icons manifest.json ./dist"
   },
   "devDependencies": {
     "typescript": "^5.5.3"
